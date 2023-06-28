@@ -1,0 +1,2 @@
+# ejercicioCrudPdo
+ejericico con crud
