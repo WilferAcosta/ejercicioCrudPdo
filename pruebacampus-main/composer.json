@@ -1,0 +1,15 @@
+{
+    "name": "spukm01-073/pruebacampus",
+    "authors": [
+        {
+            "name": "Daniel Manosalva",
+            "email": "Manosalvasierra@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    },
+    "autoload": {
+        "classmap": ["./src"]
+    }
+}
